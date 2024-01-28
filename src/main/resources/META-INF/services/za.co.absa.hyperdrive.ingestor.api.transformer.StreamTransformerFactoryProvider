@@ -15,4 +15,4 @@
 
 # Replace the following line with the fully qualified name of your implementation.
 # Multiple implementations can be registered, one per line.
-group5.transformer.mycomponent.MyStreamTransformerImplLoader
+group0.transformer.mycomponent.MyStreamTransformerImplLoader

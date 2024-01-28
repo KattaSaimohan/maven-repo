@@ -15,4 +15,4 @@
 
 # Replace the following line with the fully qualified name of your implementation.
 # Multiple implementations can be registered, one per line.
-group5.writer.mycomponent.MyStreamWriterImplLoader
+group0.writer.mycomponent.MyStreamWriterImplLoader

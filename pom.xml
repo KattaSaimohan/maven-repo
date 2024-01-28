@@ -21,8 +21,8 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/xsd/maven-4.0.0.xsd">
     <modelVersion>4.0.0</modelVersion>
 
-    <groupId>group5</groupId>
-    <artifactId>project8</artifactId>
+    <groupId>group0</groupId>
+    <artifactId>project4</artifactId>
     <version>1.0-SNAPSHOT</version>
     <packaging>jar</packaging>
 
@@ -36,8 +36,8 @@
 
         <!-- Build -->
         <maven.jar.plugin.version>3.1.2</maven.jar.plugin.version>
-        <scala.version>2.12.10</scala.version>
-        <scala.compat.version>2.12</scala.compat.version>
+        <scala.version>2.11.12</scala.version>
+        <scala.compat.version>2.11</scala.compat.version>
         <scala.maven.plugin.version>3.3.2</scala.maven.plugin.version>
 
         <!-- Tests -->
